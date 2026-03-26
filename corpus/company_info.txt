@@ -1,0 +1,307 @@
+NOVA TECH SOLUTIONS — INTERNAL COMPANY KNOWLEDGE BASE
+======================================================
+Last Updated: March 2026
+
+COMPANY OVERVIEW
+----------------
+Nova Tech Solutions is a 35-person software company founded in 2019.
+We build B2B SaaS products for logistics and supply chain management.
+The company operates fully remotely across three time zones.
+The CEO is Daniel Okafor.
+The CTO is Priya Nair.
+The COO is James Whitfield.
+
+
+TEAMS AND THEIR MEMBERS
+------------------------
+
+Engineering Team
+- Lead: Priya Nair
+- Members: Carlos Mendez, Yuki Tanaka, Ahmed Siddiqui, Lena Fischer, Tom Osei
+- Responsible for: backend development, API design, infrastructure, system reliability
+- Works closely with: Product Team, DevOps Team
+
+Product Team
+- Lead: Sophie Hartman
+- Members: Ravi Patel, Mei Lin, Connor Brady
+- Responsible for: product roadmap, feature prioritization, user stories, sprint planning
+- Works closely with: Engineering Team, Design Team
+
+Design Team
+- Lead: Isabel Rocha
+- Members: Jake Morrison, Amara Diallo
+- Responsible for: UI/UX design, brand assets, prototyping, design system
+- Works closely with: Product Team, Marketing Team
+
+Marketing Team
+- Lead: Chris Owens
+- Members: Nina Petrov, David Yoon, Fatima Al-Hassan
+- Responsible for: campaigns, social media, content strategy, SEO, paid ads
+- Works closely with: Sales Team, Design Team
+
+Sales Team
+- Lead: Marcus Bell
+- Members: Julia Ferreira, Kwame Asante, Rachel Kim
+- Responsible for: outbound sales, demos, contract negotiation, client acquisition
+- Works closely with: Marketing Team, Customer Success Team
+
+Customer Success Team
+- Lead: Aisha Nwosu
+- Members: Leo Dubois, Priscilla Tang, Samuel Eze
+- Responsible for: client onboarding, support tickets, renewals, client health scores
+- Works closely with: Engineering Team, Sales Team
+
+HR and Operations Team
+- Lead: Maria Gomez
+- Members: Theo Bergmann
+- Responsible for: hiring, payroll, time off requests, contracts, onboarding new employees, benefits, company policies
+- Works closely with: All teams
+
+Finance Team
+- Lead: Robert Cheng
+- Members: Hannah Osei
+- Responsible for: invoicing, budgets, expense reports, financial forecasting, vendor payments
+- Works closely with: HR Team, Sales Team
+
+
+TOOLS AND WHO USES THEM
+------------------------
+
+Communication Tools
+- Slack: used by all teams for daily communication
+  - #engineering channel owned by Carlos Mendez
+  - #marketing channel owned by Nina Petrov
+  - #general channel owned by Maria Gomez
+  - #sales channel owned by Marcus Bell
+  - #design channel owned by Isabel Rocha
+  - Slack admin and access requests: contact Maria Gomez
+
+- Zoom: used by all teams for video calls
+  - Zoom admin: Theo Bergmann
+  - To get a Zoom account: contact Theo Bergmann
+
+Project Management Tools
+- Jira: used by Engineering Team and Product Team
+  - Jira admin: Ravi Patel
+  - To get Jira access: contact Ravi Patel
+  - Engineering board owner: Carlos Mendez
+  - Product board owner: Sophie Hartman
+
+- Notion: used by Product Team, HR Team, Marketing Team
+  - Notion admin: Sophie Hartman
+  - To get Notion access: contact Sophie Hartman
+  - HR workspace owner: Maria Gomez
+  - Marketing workspace owner: Chris Owens
+
+- Trello: used by Design Team and Customer Success Team
+  - Trello admin: Isabel Rocha
+  - To get Trello access: contact Isabel Rocha
+
+Design Tools
+- Figma: used by Design Team and Product Team
+  - Figma admin: Isabel Rocha
+  - To get Figma access: contact Isabel Rocha
+  - Design system maintainer: Amara Diallo
+
+- Adobe Creative Suite: used by Design Team and Marketing Team
+  - License manager: Jake Morrison
+  - To get Adobe access: contact Jake Morrison
+
+Development Tools
+- GitHub: used by Engineering Team
+  - GitHub admin: Ahmed Siddiqui
+  - To get GitHub access: contact Ahmed Siddiqui
+  - Main repository owner: Yuki Tanaka
+
+- AWS: used by Engineering Team and DevOps
+  - AWS admin: Lena Fischer
+  - To get AWS access: contact Lena Fischer
+  - Production environment owner: Tom Osei
+  - Staging environment owner: Carlos Mendez
+
+- Datadog: used by Engineering Team for monitoring
+  - Datadog admin: Tom Osei
+  - Alerts and on-call rotation managed by: Tom Osei
+
+Analytics and Marketing Tools
+- Google Analytics: used by Marketing Team and Product Team
+  - Admin: David Yoon
+  - To get access: contact David Yoon
+
+- HubSpot: used by Sales Team and Marketing Team
+  - HubSpot admin: Julia Ferreira
+  - CRM data owner: Marcus Bell
+  - To get HubSpot access: contact Julia Ferreira
+
+- Mailchimp: used by Marketing Team
+  - Admin: Fatima Al-Hassan
+  - To get access: contact Fatima Al-Hassan
+
+Finance Tools
+- QuickBooks: used by Finance Team only
+  - Admin: Robert Cheng
+  - Expense report submissions: contact Hannah Osei
+
+- Expensify: used by all teams for expense reports
+  - Admin: Hannah Osei
+  - To submit an expense report: contact Hannah Osei or submit via Expensify app
+
+
+PROCESSES AND WHO TO CONTACT
+------------------------------
+
+Payroll
+- Payroll is processed on the 28th of every month
+- For payroll questions or issues: contact Maria Gomez
+- For payslip access: contact Theo Bergmann
+
+Time Off and Leave
+- Time off requests must be submitted at least 5 business days in advance
+- To request time off: contact Maria Gomez and your direct team lead
+- Sick leave: notify Maria Gomez and your team lead on the same day
+- Parental leave policy: contact Maria Gomez for the full document
+
+Expense Reimbursements
+- Submit expense reports within 30 days of the expense
+- Use Expensify for all submissions
+- For reimbursement status: contact Hannah Osei
+- Expenses above 500 USD require approval from Robert Cheng before submission
+
+Equipment and Hardware
+- New laptop requests: contact Theo Bergmann
+- Hardware issues: contact Tom Osei first, then Theo Bergmann if hardware replacement is needed
+- Software installation requests: contact Ahmed Siddiqui
+
+New Tool or Software Requests
+- Submit a request to Sophie Hartman with justification
+- Budget approval required from Robert Cheng for tools above 50 USD/month
+- Security review required from Ahmed Siddiqui before any new tool is approved
+
+IT and Access Issues
+- Slack access: contact Maria Gomez
+- GitHub access: contact Ahmed Siddiqui
+- AWS access: contact Lena Fischer
+- General IT issues: contact Tom Osei
+- Password resets for internal tools: contact Theo Bergmann
+
+Client and Contract Issues
+- New client contracts: contact Marcus Bell
+- Contract renewals: contact Aisha Nwosu
+- Client complaints or escalations: contact Aisha Nwosu, who escalates to James Whitfield if unresolved within 24 hours
+- Invoice disputes: contact Robert Cheng
+
+Hiring and Recruitment
+- To refer a candidate: contact Maria Gomez
+- Open positions are posted by Maria Gomez on LinkedIn
+- Interview process coordination: contact Maria Gomez
+- Offer letters issued by: Maria Gomez and Robert Cheng jointly
+
+Security and Compliance
+- Security incident reporting: contact Ahmed Siddiqui immediately
+- Data breach protocol owner: Priya Nair
+- GDPR compliance questions: contact Maria Gomez
+- Security audit coordination: Ahmed Siddiqui
+
+
+SOCIAL MEDIA ACCOUNTS AND OWNERSHIP
+-------------------------------------
+- LinkedIn company page: owned and managed by Chris Owens
+  - To post on LinkedIn: contact Chris Owens
+- Twitter/X account: managed by Nina Petrov
+  - To post on Twitter: contact Nina Petrov
+- Instagram account: managed by Fatima Al-Hassan
+  - To get Instagram access: contact Fatima Al-Hassan
+- YouTube channel: managed by David Yoon
+  - To upload videos: contact David Yoon
+
+
+KEY RELATIONSHIPS BETWEEN PEOPLE
+----------------------------------
+- Daniel Okafor (CEO) reports to: Board of Directors
+- Priya Nair (CTO) reports to: Daniel Okafor
+- James Whitfield (COO) reports to: Daniel Okafor
+- Sophie Hartman reports to: James Whitfield
+- Marcus Bell reports to: James Whitfield
+- Aisha Nwosu reports to: James Whitfield
+- Maria Gomez reports to: Daniel Okafor
+- Robert Cheng reports to: James Whitfield
+- Isabel Rocha reports to: Sophie Hartman
+- Chris Owens reports to: James Whitfield
+- Carlos Mendez reports to: Priya Nair
+- Ahmed Siddiqui reports to: Priya Nair
+
+- Priya Nair mentors: Carlos Mendez, Ahmed Siddiqui
+- Sophie Hartman mentors: Ravi Patel, Mei Lin
+- Marcus Bell mentors: Kwame Asante, Rachel Kim
+- Aisha Nwosu collaborates_daily_with: Marcus Bell
+- Isabel Rocha collaborates_daily_with: Sophie Hartman
+- Tom Osei is_backup_for: Lena Fischer
+- Theo Bergmann is_backup_for: Maria Gomez
+
+
+CROSS-TEAM DEPENDENCIES
+-------------------------
+- Engineering Team depends on Product Team for: sprint requirements and feature specs
+- Product Team depends on Design Team for: wireframes and prototypes before development
+- Design Team depends on Marketing Team for: brand guidelines and campaign assets
+- Marketing Team depends on Sales Team for: customer feedback and market insights
+- Sales Team depends on Customer Success Team for: case studies and renewal data
+- Customer Success Team depends on Engineering Team for: bug fixes and technical escalations
+- Finance Team depends on Sales Team for: signed contracts and revenue forecasts
+- HR Team depends on all team leads for: headcount planning and performance reviews
+
+
+OFFICE HOURS AND AVAILABILITY
+-------------------------------
+- Core hours (everyone online): 10:00 AM to 3:00 PM CET
+- Engineering Team standup: daily at 10:00 AM CET, led by Carlos Mendez
+- Product Team standup: daily at 10:30 AM CET, led by Sophie Hartman
+- All-hands meeting: every first Monday of the month at 11:00 AM CET, hosted by Daniel Okafor
+- Design review: every Thursday at 2:00 PM CET, led by Isabel Rocha
+- Sales sync: every Tuesday at 9:00 AM CET, led by Marcus Bell
+- On-call rotation for production issues: managed by Tom Osei, rotation includes Carlos Mendez, Yuki Tanaka, Lena Fischer
+
+
+ESCALATION PATHS
+-----------------
+- Production outage: Tom Osei → Carlos Mendez → Priya Nair → Daniel Okafor
+- Client escalation: Aisha Nwosu → James Whitfield → Daniel Okafor
+- HR dispute: Maria Gomez → Daniel Okafor
+- Security incident: Ahmed Siddiqui → Priya Nair → Daniel Okafor
+- Budget overrun: Robert Cheng → James Whitfield → Daniel Okafor
+- Legal issue: James Whitfield → Daniel Okafor → external legal counsel
+
+
+QUESTIONS A NEW EMPLOYEE TYPICALLY ASKS
+-----------------------------------------
+These are provided as examples of what the system should be able to answer:
+
+Q: Who do I talk to about my first payslip?
+A: Contact Theo Bergmann for payslip access and Maria Gomez for any payroll questions.
+
+Q: I need access to GitHub. Who do I contact?
+A: Contact Ahmed Siddiqui for GitHub access.
+
+Q: Which team handles client complaints?
+A: Customer Success Team, led by Aisha Nwosu.
+
+Q: Who owns the Instagram account?
+A: Fatima Al-Hassan manages the Instagram account.
+
+Q: I have a laptop issue. What do I do?
+A: Contact Tom Osei first. If hardware replacement is needed, contact Theo Bergmann.
+
+Q: Who do I ask to get added to Slack?
+A: Contact Maria Gomez for Slack access.
+
+Q: What tools does the design team use?
+A: The Design Team uses Figma, Adobe Creative Suite, and Trello.
+
+Q: Who reports to Priya Nair?
+A: Carlos Mendez and Ahmed Siddiqui report directly to Priya Nair.
+
+Q: If there is a production outage at 2am, who is responsible?
+A: Tom Osei manages the on-call rotation. Escalation goes to Carlos Mendez, then Priya Nair, then Daniel Okafor.
+
+Q: I want to expense a 600 USD conference ticket. What is the process?
+A: Expenses above 500 USD require prior approval from Robert Cheng before submitting via Expensify. Contact Hannah Osei for submission.

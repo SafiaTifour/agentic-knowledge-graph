@@ -1,0 +1,1099 @@
+[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Nova Tech Solutions"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:0"
+    },
+    "r": {
+      "identity": 1152923703630102528,
+      "start": 0,
+      "end": 1,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "was_founded_in",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:1152923703630102528",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:0",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "2019"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Nova Tech Solutions"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:0"
+    },
+    "r": {
+      "identity": 6917531226664337410,
+      "start": 0,
+      "end": 2,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "has_employees",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:6917531226664337410",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:0",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:2"
+    },
+    "m": {
+      "identity": 2,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "35"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:2"
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "2019"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:1"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "35"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:2"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Daniel Okafor"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:3"
+    },
+    "r": {
+      "identity": 1152923703630102531,
+      "start": 3,
+      "end": 0,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "is_CEO_of",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:1152923703630102531",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:3",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:0"
+    },
+    "m": {
+      "identity": 0,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Nova Tech Solutions"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:0"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Daniel Okafor"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:3"
+    },
+    "r": {
+      "identity": 6917531226664337433,
+      "start": 3,
+      "end": 25,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "reports_to",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:6917531226664337433",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:3",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:25"
+    },
+    "m": {
+      "identity": 25,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Board of Directors"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:25"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Priya Nair"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:4"
+    },
+    "r": {
+      "identity": 1152923703630102532,
+      "start": 4,
+      "end": 0,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "is_CTO_of",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:1152923703630102532",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:4",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:0"
+    },
+    "m": {
+      "identity": 0,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Nova Tech Solutions"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:0"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Priya Nair"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:4"
+    },
+    "r": {
+      "identity": 1155175503443787780,
+      "start": 4,
+      "end": 3,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "reports_to",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:1155175503443787780",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:4",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:3"
+    },
+    "m": {
+      "identity": 3,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Daniel Okafor"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:3"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Priya Nair"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:4"
+    },
+    "r": {
+      "identity": 6917531226664337434,
+      "start": 4,
+      "end": 26,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "mentors",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:6917531226664337434",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:4",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:26"
+    },
+    "m": {
+      "identity": 26,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Carlos Mendez"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:26"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "James Whitfield"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:5"
+    },
+    "r": {
+      "identity": 1152923703630102533,
+      "start": 5,
+      "end": 0,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "is_COO_of",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:1152923703630102533",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:5",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:0"
+    },
+    "m": {
+      "identity": 0,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Nova Tech Solutions"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:0"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "James Whitfield"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:5"
+    },
+    "r": {
+      "identity": 1155175503443787781,
+      "start": 5,
+      "end": 3,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "reports_to",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:1155175503443787781",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:5",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:3"
+    },
+    "m": {
+      "identity": 3,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Daniel Okafor"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:3"
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Engineering Team"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:6"
+    },
+    "r": {
+      "identity": 1152923703630102534,
+      "start": 6,
+      "end": 4,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "has_lead",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:1152923703630102534",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:6",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:4"
+    },
+    "m": {
+      "identity": 4,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Priya Nair"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:4"
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Engineering Team"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:6"
+    },
+    "r": {
+      "identity": 6917531226664337429,
+      "start": 6,
+      "end": 21,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "is_responsible_for",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:6917531226664337429",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:6",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:21"
+    },
+    "m": {
+      "identity": 21,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "backend development"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:21"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Product Team"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:7"
+    },
+    "r": {
+      "identity": 1152923703630102535,
+      "start": 7,
+      "end": 8,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "has_lead",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:1152923703630102535",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:7",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:8"
+    },
+    "m": {
+      "identity": 8,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sophie Hartman"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:8"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Product Team"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:7"
+    },
+    "r": {
+      "identity": 6917531226664337430,
+      "start": 7,
+      "end": 22,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "is_responsible_for",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:6917531226664337430",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:7",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:22"
+    },
+    "m": {
+      "identity": 22,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "product roadmap"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:22"
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sophie Hartman"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:8"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Design Team"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:9"
+    },
+    "r": {
+      "identity": 1152923703630102537,
+      "start": 9,
+      "end": 10,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "has_lead",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:1152923703630102537",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:9",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:10"
+    },
+    "m": {
+      "identity": 10,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Isabel Rocha"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:10"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Design Team"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:9"
+    },
+    "r": {
+      "identity": 6917531226664337431,
+      "start": 9,
+      "end": 23,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "is_responsible_for",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:6917531226664337431",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:9",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:23"
+    },
+    "m": {
+      "identity": 23,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "UI/UX design"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:23"
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Isabel Rocha"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:10"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Marketing Team"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:11"
+    },
+    "r": {
+      "identity": 1152923703630102539,
+      "start": 11,
+      "end": 12,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "has_lead",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:1152923703630102539",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:11",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Chris Owens"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Chris Owens"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:12"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sales Team"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:13"
+    },
+    "r": {
+      "identity": 1152923703630102541,
+      "start": 13,
+      "end": 14,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "has_lead",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:1152923703630102541",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:13",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:14"
+    },
+    "m": {
+      "identity": 14,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Marcus Bell"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:14"
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sales Team"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:13"
+    },
+    "r": {
+      "identity": 6917531226664337432,
+      "start": 13,
+      "end": 24,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "is_responsible_for",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:6917531226664337432",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:13",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:24"
+    },
+    "m": {
+      "identity": 24,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "client acquisition"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:24"
+    }
+  },
+  {
+    "n": {
+      "identity": 14,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Marcus Bell"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:14"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 15,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Customer Success Team"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:15"
+    },
+    "r": {
+      "identity": 1152923703630102543,
+      "start": 15,
+      "end": 16,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "has_lead",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:1152923703630102543",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:15",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:16"
+    },
+    "m": {
+      "identity": 16,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Aisha Nwosu"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:16"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Aisha Nwosu"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:16"
+    },
+    "r": {
+      "identity": 1155175503443787792,
+      "start": 16,
+      "end": 14,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "collaborates_daily_with",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:1155175503443787792",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:16",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:14"
+    },
+    "m": {
+      "identity": 14,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Marcus Bell"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:14"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "HR and Operations Team"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:17"
+    },
+    "r": {
+      "identity": 1152923703630102545,
+      "start": 17,
+      "end": 18,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "has_lead",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:1152923703630102545",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:17",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:18"
+    },
+    "m": {
+      "identity": 18,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Maria Gomez"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:18"
+    }
+  },
+  {
+    "n": {
+      "identity": 18,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Maria Gomez"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:18"
+    },
+    "r": {
+      "identity": 1155175503443787794,
+      "start": 18,
+      "end": 3,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "reports_to",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:1155175503443787794",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:18",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:3"
+    },
+    "m": {
+      "identity": 3,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Daniel Okafor"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:3"
+    }
+  },
+  {
+    "n": {
+      "identity": 19,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Finance Team"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:19"
+    },
+    "r": {
+      "identity": 1152923703630102547,
+      "start": 19,
+      "end": 20,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "has_lead",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:1152923703630102547",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:19",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:20"
+    },
+    "m": {
+      "identity": 20,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Robert Cheng"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:20"
+    }
+  },
+  {
+    "n": {
+      "identity": 20,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Robert Cheng"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:20"
+    },
+    "r": {
+      "identity": 1155175503443787796,
+      "start": 20,
+      "end": 5,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "reports_to",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:1155175503443787796",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:20",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:5"
+    },
+    "m": {
+      "identity": 5,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "James Whitfield"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:5"
+    }
+  },
+  {
+    "n": {
+      "identity": 21,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "backend development"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:21"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "product roadmap"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:22"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 23,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "UI/UX design"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:23"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 24,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "client acquisition"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:24"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 25,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Board of Directors"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:25"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 26,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Carlos Mendez"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:26"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Ahmed Siddiqui"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:27"
+    },
+    "r": {
+      "identity": 1152923703630102555,
+      "start": 27,
+      "end": 28,
+      "type": "RELATION",
+      "properties": {
+        "valid": true,
+        "type": "is_admin_for",
+        "source_uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "5:1b140186-8832-4974-8790-e35e595742b2:1152923703630102555",
+      "startNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:27",
+      "endNodeElementId": "4:1b140186-8832-4974-8790-e35e595742b2:28"
+    },
+    "m": {
+      "identity": 28,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "GitHub"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:28"
+    }
+  },
+  {
+    "n": {
+      "identity": 28,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "GitHub"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:28"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "Document"
+      ],
+      "properties": {
+        "content_hash": "8a1dfd9724e0a616f49359966ca1ebb007f21b5b8acf33683945ebf025be279c",
+        "uri": "github://SafiaTifour/kg-agent-knowledge-base/main/company_info.txt"
+      },
+      "elementId": "4:1b140186-8832-4974-8790-e35e595742b2:29"
+    },
+    "r": null,
+    "m": null
+  }
+]

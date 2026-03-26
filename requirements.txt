@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-google-genai
+google-generativeai
+neo4j
+python-dotenv
+pyyaml
+pydantic
+aiohttp
+streamlit

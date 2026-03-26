@@ -1,0 +1,5 @@
+The Automatic Computing Engine, or ACE, was an early British electronic serial stored-program computer designed by Alan Turing. Turing completed the ambitious design in late 1945. It was a conscious tribute to Charles Babbage's Analytical Engine. The ACE's main memory consisted of mercury delay lines, and the whole architecture of the machine was adapted to their characteristics.
+
+Turing’s technical design was the product of his theoretical work in 1936 and his wartime experience at Bletchley Park, where the Colossus computers had been successful in breaking German military codes. For its day, the ACE was a very fast machine, although it was considered difficult to program.
+
+The full-scale ACE was not built immediately, but a smaller version called the Pilot ACE was constructed at the National Physical Laboratory and became operational in 1950. At that time, it was the fastest computer in the world. The principles of the ACE design were later used in other computers, including the Bendix G-15.

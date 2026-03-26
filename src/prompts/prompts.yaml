@@ -1,0 +1,45 @@
+entity_extraction: |
+  Extract the named entities from this question that could be nodes in a knowledge graph.
+  Return ONLY the structured output.
+  
+  Question: {question}
+
+cypher_generation: |
+  You are a Cypher query generator for a Neo4j knowledge graph.
+  
+  The graph has:
+  - Nodes with label :Entity and property `name`
+  - Relationships with label :RELATION and property `type`
+  
+  Write a Cypher query to answer this question using these anchor entities: {entity_list}
+  
+  Question: {question}
+  
+  Rules:
+  - Use MATCH and WHERE with case-insensitive matching: WHERE toLower(n.name) CONTAINS toLower("entity")
+  - ONLY return paths where the relationship is valid: `AND COALESCE(r.valid, true) = true`
+  - Return n.name, r.type, m.name
+  - LIMIT 20
+
+reasoning: |
+  You are a reasoning agent. Answer the question using ONLY the graph facts provided below.
+  Do not use any external knowledge. If the facts are insufficient, say so clearly.
+  
+  Question: {question}
+  
+  Graph facts retrieved:
+  {facts_str}
+  
+  Provide a clear, grounded answer referencing the specific facts above.
+
+triple_extraction: |
+  Extract factual knowledge triples from the text below.
+  
+  Rules:
+  - Extract 15 to 25 triples
+  - Use consistent full names (e.g. "Alan Turing", not just "Turing")
+  - Relations should be descriptive: worked_at, invented, studied_at, influenced_by
+  - No pronouns, no quotes inside values
+  
+  Text:
+  {text}
