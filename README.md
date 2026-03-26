@@ -5,7 +5,7 @@
 [![LangGraph](https://img.shields.io/badge/Orchestrator-LangGraph-orange?logo=langchain)](https://langchain.com/)
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-red?logo=streamlit)](https://streamlit.io/)
 
-A deeply sophisticated, asynchronous, strictly-typed Agentic AI system that builds and queries a Neo4j Knowledge Graph based on remote enterprise documents. Built around modern 2026 Software Engineering best practices for AI development.
+A strictly-typed Agentic AI system that builds and queries a Neo4j Knowledge Graph based on remote enterprise documents. Built around modern 2026 Software Engineering best practices for AI development.
 
 ### 💡 A Foundational Skeleton Base
 
