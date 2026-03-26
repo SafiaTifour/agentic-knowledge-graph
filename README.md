@@ -7,6 +7,16 @@
 
 A deeply sophisticated, asynchronous, strictly-typed Agentic AI system that builds and queries a Neo4j Knowledge Graph based on remote enterprise documents. Built around modern 2026 Software Engineering best practices for AI development.
 
+### 💡 A Foundational Skeleton Base
+
+This repository is expressly designed to serve as a **highly extensible foundational skeleton** for *any* project that wants to utilize a Graph Knowledge Base. Rather than being a rigid application, it provides a clean, modular architecture that gives you direct access to a single unified Knowledge Graph. 
+
+**How to use this as a base:**
+1. **Fork or Clone:** Use this project as your starting point.
+2. **Swap the Source:** Change `config.yaml` to point to your own GitHub repo containing your specific business logic, Wikipedia articles, or medical data.
+3. **Extend the Agents:** Add new tools to the `src/agents/` folder to create multi-agent workflows (e.g., adding an internet search tool or a calculator) on top of the existing schema capabilities.
+4. **Scale Up:** You can safely build on top of this without worrying about duplicate data ingestion thanks to its built-in idempotency and state engine.
+
 
 ## 🏗️ Architecture & Pro Best Practices
 
